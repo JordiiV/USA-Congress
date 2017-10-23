@@ -1,0 +1,16 @@
+# Empty CSS file for your own CSS
+
+img {
+    height: 480px;
+    width:480px;
+}
+
+.producto{
+
+    		padding: 30px 10px;
+    		border-radius: 10px;
+    		border: 1px solid #ccc;
+    		text-align: center;
+            height:608px;
+
+    	}

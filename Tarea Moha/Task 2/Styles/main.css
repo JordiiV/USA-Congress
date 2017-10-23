@@ -1,0 +1,89 @@
+header {
+    background-image: url(../Images/flag.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    width: 300px;
+    height: 300px;
+}
+
+#mailLogo {
+    width: 50px;
+    height: 50px;
+}
+
+#titleBar {
+    text-align: center;
+    background-color: #0FB0B0;
+    color: #000;
+}
+
+#home {
+    overflow-y: scroll;
+    height: 350px;
+}
+
+#tgif {
+    width: 100%;
+}
+
+.description {
+    background-color: #e0ebeb;
+}
+
+section p {
+    padding: 20px;
+}
+
+.navbar-inverse {
+    background-color: #5c8a8a;
+    border-color: #ffffff;
+}
+
+.selectors {
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+#table-wrap {
+    height: 450px;
+    overflow: scroll;
+}
+
+#secondSEC {
+    margin-top: 50px;
+}
+
+th {
+    text-align: left;
+    background-color: #0FB0B0;
+}
+
+#foot {
+    text-align: center;
+    margin-top: 50px;
+    background-color: #5c8a8a;
+    color: #ffffff;
+}
+
+#margin {
+    border-bottom: 5px solid #5c8a8a;
+    margin-top: 50px;
+}
+
+.navbar-inverse {
+    background-color: #5c8a8a;
+    border-color: #000;
+}
+
+.navbar {
+    border-radius: 0px;
+}
